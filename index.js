@@ -1,14 +1,14 @@
 /*
 * JANGAN UBAH-UBAH INFO!!!
 * "JANGAN MODAL NAMA DOANG BRO!!!"
-* SCRIPT BY MASLENT 
+* SCRIPT BY Rizky BOT 
 * JANGAN MODAL NAMA DOANG BOSQ
 * HARGAILAH YY MEMBUAT SCRIPT INI BOSQ
 * JANGAN UBAH-UBAH INFO!!!
-* MASLENT ID
+* RIZKY BOT
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
-const A187 = 'Rizky BOT'; // JANGAN UBAH-UBAH INFO!!!
+const A187 = 'Rizkyy BOT'; // JANGAN UBAH-UBAH INFO!!!
 const instagram = 'https://instagram.com/_rizkyfadilah8'; // JANGAN UBAH-UBAH INFO!!!
 const nomer = 'Wa.me/+6282387804410'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
