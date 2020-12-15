@@ -8,12 +8,12 @@
 * MASLENT ID
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
-const A187 = 'MASLENT'; // JANGAN UBAH-UBAH INFO!!!
-const instagram = 'https://instagram.com/_maslent11'; // JANGAN UBAH-UBAH INFO!!!
-const nomer = 'Wa.me/+628165466368'; // JANGAN UBAH-UBAH INFO!!!
+const A187 = 'Rizky BOT'; // JANGAN UBAH-UBAH INFO!!!
+const instagram = 'https://instagram.com/_rizkyfadilah8'; // JANGAN UBAH-UBAH INFO!!!
+const nomer = 'Wa.me/+6282387804410'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
-const groupwhatsapp = 'https://chat.whatsapp.com/JsredxazPdoIYrhijmAl94'; // JANGAN UBAH-UBAH INFO!!!
-const youtube = 'https://www.youtube.com/channel/UCAn_1yox-jIUFhUVYTxI_JA'; // JANGAN UBAH-UBAH INFO!!!
+const groupwhatsapp = 'https://chat.whatsapp.com/FROF0hmWUuwD4WKgcyIEH9'; // JANGAN UBAH-UBAH INFO!!!
+const youtube = 'Gapunya cuk Sedih bet aku:('; // JANGAN UBAH-UBAH INFO!!!
 //A187ID
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
@@ -79,11 +79,11 @@ fs.existsSync('./session.json') && conn.loadAuthInfo('./session.json')
 //conn.connectOptions.agent = ProxyAgent ('http://1.0.180.120:8080')
 conn.connect();
 
-conn.on('user-presence-update', json => console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @_BANGLENT`))
+conn.on('user-presence-update', json => console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @_Rzkybot`))
 conn.on('message-status-update', json =>
 {
    const participant = json.participant ? ' (' + json.participant + ')' : '' // participant exists when the message is from a group
-   console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @_BANGLENT`)
+   console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @_Rzkybot`)
 })
 
 conn.on('message-new', async(m) =>
@@ -151,7 +151,7 @@ else if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 }
 else if (text == '#owner'){
-conn.sendMessage(id, ' *Owner MASLENT11 wa.me/+628165466368* ' ,MessageType.text);
+conn.sendMessage(id, ' *Owner Rizky BOT wa.me/+6282387804410* ' ,MessageType.text);
 }
 else if (text == '#help'){
 conn.sendMessage(id, ' *Menampilkan Pilihan Menu!!!* ' ,MessageType.text);
@@ -175,7 +175,7 @@ else if (text == '#donasi'){
 conn.sendMessage(id, ' *Menampilkan Donasi!!!* ' ,MessageType.text);
 }
 else if (text == '#creator'){
-conn.sendMessage(id, ' *Creator Maslent wa.me/+628165466368* ' ,MessageType.text);
+conn.sendMessage(id, ' *Creator Rizky BOt wa.me/+6282387804410* ' ,MessageType.text);
 }
 else if (text == 'Pagi'){
 conn.sendMessage(id, ' _Pagi juga, Iyah aku disini kak...ada yang bisa kami bantu? Ketik *#help* untuk melihat fitur bot kami🙏_ ' ,MessageType.text);
@@ -1270,7 +1270,7 @@ if (text.includes("!alay")){
 	})
 }
 
-//Tolonglah bro jangan di ubah ubah maslent ID
+//Tolonglah bro jangan di ubah ubah RIZKY BOT
 
 
 })
