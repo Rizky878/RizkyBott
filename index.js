@@ -13,7 +13,7 @@ const instagram = 'https://instagram.com/_rizkyfadilah8'; // JANGAN UBAH-UBAH IN
 const nomer = 'Wa.me/+6282387804410'; // JANGAN UBAH-UBAH INFO!!!
 const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
 const groupwhatsapp = 'https://chat.whatsapp.com/FROF0hmWUuwD4WKgcyIEH9'; // JANGAN UBAH-UBAH INFO!!!
-const youtube = 'Gapunya cuk Sedih bet aku:('; // JANGAN UBAH-UBAH INFO!!!
+const youtube = 'CIEE KEPOO YAA WKWK:v'; // JANGAN UBAH-UBAH INFO!!!
 //A187ID
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
@@ -932,22 +932,22 @@ else if (text == '!foto'){
 conn.sendMessage(id, 'kirim !foto cewek/cowok\n\nContoh: !foto cewek' ,MessageType.text);
 }
 else if (text == '#help'){
-conn.sendMessage(id, ' _💌️TERIMAKASIH Telah Menggunakan BOT *🇮🇩MASLENT🇮🇩* , Subscribe Youtube Maslent Yah Cara Membuat bot via Android:https://www.youtube.com/channel/UCAn_1yox-jIUFhUVYTxI_JA' ,MessageType.text);
+conn.sendMessage(id, ' _🏃TERIMAKASIH Telah Menggunakan BOT *RIZKY BOT* , OKE' ,MessageType.text);
 }
 else if (text == '#menu1'){
-conn.sendMessage(id, ' _💌️TERIMAKASIH Telah Menggunakan BOT *🇮🇩MASLENT🇮🇩* , Subscribe Youtube Maslent Yah Cara Membuat bot via Android:https://www.youtube.com/channel/UCAn_1yox-jIUFhUVYTxI_JA' ,MessageType.text);
+conn.sendMessage(id, ' _🏃TERIMAKASIH Telah Menggunakan BOT *RIZKY BOT* , OKE' ,MessageType.text);
 }
 else if (text == '#menu'){
-conn.sendMessage(id, ' _💌️TERIMAKASIH Telah Menggunakan BOT *🇮🇩MASLENT🇮🇩* , Subscribe Youtube Maslent Yah Cara Membuat bot via Android:https://www.youtube.com/channel/UCAn_1yox-jIUFhUVYTxI_JA' ,MessageType.text);
+conn.sendMessage(id, ' _🏃TERIMAKASIH Telah Menggunakan BOT *RIZKY BOT* , OKE' ,MessageType.text);
 }
 else if (text == '#menu2'){
-conn.sendMessage(id, ' _💌️TERIMAKASIH Telah Menggunakan BOT *🇮🇩MASLENT🇮🇩* , Subscribe Youtube Maslent Yah Cara Membuat bot via Android:https://www.youtube.com/channel/UCAn_1yox-jIUFhUVYTxI_JA' ,MessageType.text);
+conn.sendMessage(id, ' _🏃TERIMAKASIH Telah Menggunakan BOT *RIZKY BOT* , OKE' ,MessageType.text);
 }
 else if (text == '#menu3'){
-conn.sendMessage(id, ' _💌TERIMAKASIH Telah Menggunakan BOT *🇮🇩MASLENT🇮🇩* , Subscribe Youtube Maslent Yah Cara Membuat bot via Android:https://www.youtube.com/channel/UCAn_1yox-jIUFhUVYTxI_JA' ,MessageType.text);
+conn.sendMessage(id, ' _🏃TERIMAKASIH Telah Menggunakan BOT *RIZKY BOT* , OKE' ,MessageType.text);
 }
 else if (text == '#menu4'){
-conn.sendMessage(id, ' _💌️TERIMAKASIH Telah Menggunakan BOT *🇮🇩MASLENT🇮🇩* , Subscribe Youtube Maslent Yah Cara Membuat bot via Android:https://www.youtube.com/channel/UCAn_1yox-jIUFhUVYTxI_JA' ,MessageType.text);
+conn.sendMessage(id, ' _🏃TERIMAKASIH Telah Menggunakan BOT *RIZKY BOT* , OKE' ,MessageType.text);
 }
    if (messageType == 'imageMessage')
    {
