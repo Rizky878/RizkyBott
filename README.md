@@ -1,122 +1,231 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Aris187 ID
-<p align="center">
-<img src="https://raw.githubusercontent.com/A187ID/AR15BOT/main/temp/A187.jpg" width="230" height="230"/>
-</p>
-<br>
 
 
+## Information
 
-<p align="center">
-<a href="#"><img title="👾AR15BOT👾" src="https://img.shields.io/badge/AR15BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/A187ID"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ARIS187 ID-orange.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://www.codefactor.io/repository/github/A187ID/AR15BOT"><img title="Rating" src="https://www.codefactor.io/repository/github/A187ID/AR15BOT/badge/main"></a>
-</p>
-<p align="center">
-<a href="https://github.com/A187ID/AR15BOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/A187ID?color=blue&style=flat-square"></a>
-<a href="https://github.com/A187ID/AR15BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/A187ID/AR15BOT?color=red&style=flat-square"></a>
-<a href="https://github.com/A187ID/AR15BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/A187ID/AR15BOT?color=red&style=flat-square"></a>
-<a href="https://github.com/A187ID/AR15BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/A187ID/AR15BOT?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FA187ID%2FAR15BOT&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-</p>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
-<div align="center">
-<details>
- 
-</details>
+- Change ownerNumber in msgHndlr.js to be your number
+ownerNumber = "62812xxxxxx@c.us"
+- Change adminNumber in admin.json to be your number
+[] -> ["62812xxxxxx@c.us"]
+- Set your limit, medialimit, prefix, etc at ./lib/setting
+- Add your blacklist word at ./lib/kataksr.json but you can add manually with ${prefix}addbadword
 
-### WARNING
-MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
+## Contact
 
-## NOTE:> 
-SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
-</div>
+If you find some bugs please contact the WhatsApp number on Contact
 
-### ALAT DAN BAHAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
-Siapin alat dan bahannya.
+- [Whatsapp](https://wa.me/6281281817375)
+- [BOT WA](https://wa.me/6282115089860)
+- [GROUP WA](https://chat.whatsapp.com/LuZkEtgJz4kI6cOkAeHL5j)
+
+## APIKEY
+
+Open msgHndlr.js then edit & paste it in YOUR_APIKEY
+- [VHTEAR](https://api.vhtear.com)
+- [MHANKBARBAR](https://mhankbarbar.herokuapp.com/api)
+
+Open ./lib/functions.js edit vhtear with your VHTEARKEY
+
+## Donate
+
+- [SAWERIA](https://saweria.co/bdrsmsdn)
+- [TRAKTEER](https://trakteer.id/bdrsmsdn)
+- [OVO/DANA/GOPAY](081281817375)
+- [BCA](8480792000) an Badra Samsudin Ramdan N
+Jangan lupa follow instagramku yaa! https://instagram.com/bdrsmsdn
+
+## Getting Started
+
+### This project require NodeJS v14.
+
+### Install
+Clone this project
+
 ```bash
-> niat
-> 2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak)
-> jaringan internet kenceng,kuota+
-> penyimpanan yang memadai
-> aplikasi whatsapp
-> aplikasi termux
-> kopi+rokok ;v
+> git clone https://github.com/Angga23Bot/lucya-bot.git
+> cd lucya-bot
 ```
 
-### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
-Script ini di modifikasi sama saya sendiri Aris187 ID.
+Install the dependencies:
+
 ```bash
-> kalo lu belum punya apk termux, download di playstore
-> masuk ke apk termux lalu ketik dibawah ini!
-> termux-setup-storage
-> pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
-> apt update && apt upgrade
-> git clone https://github.com/A187ID/AR15BOT
-> cd AR15BOT
-> npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && node index js
-> Tinggal scan kode qr yeee...done
+> npm install
+> npm install -g pm2
 ```
 
-## FEATURES  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
+### Usage
+1. run the Whatsapp bot
 
-| AR15BOT      |                   Feature        |
-| :-----------: | :------------------------------: |
-|       ✅       | Sticker Creator                  |
-|       ✅       | Nulis                            |
-|       ✅       | Covid (new)                      |
-|       ✅       | Alay (new)                       |
-|       ✅       | Lirik (new)                      |
-|       ✅       | Foto Anime                       |
-|       ✅       | Foto cewek/cowok (new)           |
-|       ✅       | Pantun                           |
-|       ✅       | Youtube Downloader               |
-|       ✅       | Quotes                           |
-|       ✅       | Nama (new)                       |
-|       ✅       | Foto Anime                       |
-|       ✅       | Pasangan (new)                   |
-|       ✅       | Sholat (new )                    |
-|       ✅       | Suara Google (fix)               |
-|       ✅       | Quran                            |
-|       ✅       | Youtube MP3 Downloader           |
-|       ✅       | Intagram Downloader              |
-|       ✅       | Twitter Downloader               |
-|       ✅       | Facebook Downloader              |
-|       ✅       | TikTok Downloader  (new)         |
-|       ✅       | Wikipedia                        |
-|       ✅       | Say                              |
-|       ✅       | Toxic (new)                      |
-|       ✅       | loli                             |
-|       ✅       | hentai                           |
-|       ✅       | Owner (new)                      |
-|       ✅       | kata bijak                       |
-|       ✅       | Fakta                            |
-|       ✅       | Pokemon                          |
-|       ✅       | Info                             |
-|       ✅       | Donate                           |
-|       ✅       | 18+.                             |
-|                   MORE  Fitur                     |
+```bash
+> pm2 start run.js
+> pm2 monit
+```
+2. stop the Whatsapp bot
 
-Ket: Aktiv 24 jam
+```bash
+> pm2 stop run.js
+```
 
-## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi 👾AR15BOT👾`](https://saweria.co/aris187id)
+after running it you need to scan the qr
 
 
-## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
-* [`Instagram Admin`](https://instagram.com/_sadboy.ig)
-* [`WhatsApp Admin `](https://wa.me/+6285722553839)
-## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
+| All User  |              Feature                |
+| :------------: | :---------------------------------------------: |
+|       ✅        |   Registration before use this bot                 |
 
-* [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
+| Sticker Creator |                Feature           |
+| :-----------: | :--------------------------------: |
+|       ✅       | Sticker With Image          |
+|       ✅       | Sticker With Gif                    |
+|       ✅       | Sticker With Image Url                        |
+|       ✅       | Sticker With Gif Url   |
+|       ✅       | Image To Sticker   |
+|       ✅       | Text To Picture   |
+|       and       |   Others...                 |
 
-* [`ArugaZ`](https://github.com/ArugaZ/whatsapp-bot)
-* [`MhankBarBar`](https://github.com/MhankBarBar/whatsapp-bot)
-* [`Alfbot`](https://github.com/alfiansx/alfbot)
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
+| Downloader |                     Feature                |
+| :------------: | :---------------------------------------------: |
+|       ✅        |   YouTube Video/Audio Downloader                    |
+|       ✅        |   Doujin Downloader         |
+|       ✅        |   Instagram Video/Image Downloader                  |
+|       ✅        |   Facebook Video Downloader                  |
+|       ✅        |  Tiktok Downloader                    |
+|       ✅        |   Twitter Downloader         |
+|       ✅        |   Smule Mp3 Downloader                  |
+|       ✅        |   Starmaker Video Downloader                  |
+|       ✅        |   Xnxx Video Downloader                  |
+|       ✅        |  Joox Downloader                  |
+|       ✅        |  Play Youtube in audio format              |
+|       and       |   Others...                 |
 
+| Kerang Ajaib  |                     Feature                     |
+| :------------: | :---------------------------------------------: |
+|       ✅        |   Apakah             |
+|       ✅        |   Bisakah                |
+|       ✅        |   Rate             |
+|       ✅        |   Kapankah           |
+
+| Poll Menu  |                     Feature                     |
+| :------------: | :---------------------------------------------: |
+|       ✅        |   Add Poll             |
+|       ✅        |   Add Candidates               |
+|       ✅        |   Vote             |
+|       ✅        |   Poll Result           |
+
+| Media  |                     Feature                     |
+| :------------: | :---------------------------------------------: |
+|       ✅        |   Get a random meme             |
+|       ✅        |   Text to speech                |
+|       ✅        |   Get a random waifu images     |
+|       ✅        |   Get a random quotes           |
+|       ✅        |   Get a random anime quotes     |
+|       ✅        |   Get info gempa from BMKG      |
+|       ✅        |   Weather's report's     |
+|       ✅        |   Wikipedia                 |
+|       ✅        |   Youtube                 |
+|       ✅        |   Google                 |
+|       ✅        |   Pinterest    |
+|       ✅        |   Anime searcher    |
+|       ✅        |   Google Image               |
+|       ✅        |   Couple Fortune Telling    |
+|       ✅        |   Chord    |
+|       ✅        |   Prayer Times    |
+|       ✅        |   Lyrics    |
+|       ✅        |   Textmaker    |
+|       ✅        |   Instagram Stalk    |
+|       ✅        |   Tiktok Stalk    |
+|       ✅        |   Smule Stalk    |
+|       ✅        |   Write in Image    |
+|       ✅        |   Weather Information    |
+|       ✅        |   Get a random cat images       |
+|       ✅        |   Get a random dog images       |
+|      and        |   Others...                     |
+
+
+| Group Only  |                     Feature                     |
+| :------------: | :---------------------------------------------: |
+|       ✅        |   Promote User                  |
+|       ✅        |   Demote User                   |
+|       ✅        |   Kick User                     |
+|       ✅        |   Add User                      |
+|       ✅        |   Mention All User              |
+|       ✅        |   Get link group                |
+|       ✅        |   Get Admin list                |
+|       ✅        |   Listblock                      |
+|       ✅        |   Listbanned                      |
+|       ✅        |   Listgroup                      |
+|       ✅        |   Get Admin list           |
+|       ✅        |   Get owner group               |
+|       ✅        |   Get group info                |
+|       ✅        |   enable or disable nsfw command|
+|       ✅        |   enable or disable simi command|
+|       ✅        |   enable or disable welcome feature|
+|       ✅        |   enable or disable left feature|
+|       ✅        |   enable or disable no link feature|
+|       ✅        |   enable or disable no badword feature|
+|       and       |   Others...                 |
+
+| Premium Commands |              Feature                |
+| :------------: | :---------------------------------------------: |
+|       ✅        |   Music                |
+|       ✅        |   Get Music                 |
+|       ✅        |   Video                 |
+|       ✅        |   Get Video                 |
+|       and       |   Others...                 |
+
+| NSFW Commands |              Feature                |
+| :------------: | :---------------------------------------------: |
+|       ✅        |   Lewds                |
+|       ✅        |   Fetish                 |
+|       ✅        |   Nhentai                 |
+|       ✅        |   Pornhub Downloader       |
+|       and       |   Others...                 |
+
+| Anonymous Chat Commands |              Feature                |
+| :------------: | :---------------------------------------------: |
+|       ✅        |   Registration                |
+|       ✅        |   Send Message                |
+|       ✅        |   List Number                 |
+|       ✅        |   Remove Number       |
+
+| Owner Group Only  |              Feature                |
+| :------------: | :---------------------------------------------: |
+|       ✅        |   Kick All Member Group                 |
+
+| Owner Bot Only  |              Feature                |
+| :------------: | :---------------------------------------------: |
+|       ✅        |   Leave all group                   |
+|       ✅        |   Clear all message                 |
+|       ✅        |   Broadcast                      |
+|       ✅        |   Getses                      |
+|       ✅        |   Banchat                      |
+|       ✅        |   Maintenance                      |
+|       ✅        |   Add Admin Sasha                      |
+|       ✅        |   Del Admin Sasha                      |
+|       ✅        |   Block                      |
+|       ✅        |   Unblock                      |
+|       ✅        |   Join Group                      |
+|       ✅        |   Set Prefix                      |
+|       ✅        |   Set Limit                      |
+|       and       |  Others...                     |
+
+---
+
+## Troubleshooting
+Make sure all the necessary dependencies are installed: https://github.com/puppeteer/puppeteer/blob/main/docs/troubleshooting.md
+
+Fix Stuck on linux, install google chrome stable: 
+```bash
+> wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+> sudo apt install ./google-chrome-stable_current_amd64.deb
+```
+
+## 🙏Special Thanks To
+<ul>
+<li>Allah SWT<br>
+<li>https://github.com/open-wa/wa-automate-nodejs<br>
+<li>https://github.com/MhankBarBar/whatsapp-bot<br>
+<li>https://github.com/ItzNgga/wa-bot<br>
+<li>https://github.com/TobyG74<br>
+<li>https://github.com/Angga23Bot<br>
+</li>
